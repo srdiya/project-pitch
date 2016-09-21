@@ -1,2 +1,4 @@
-# project-pitch
-Pitch for J221 Final Project
+# Pitch for J221 Final Project
+## Sabhanaz Rashid Diya
+
+
